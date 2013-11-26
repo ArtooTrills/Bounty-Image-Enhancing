@@ -11,4 +11,4 @@ You need to process the image by these three steps-
 Here is an image demonstrating the result of these three steps - 
 ![CamScanner](https://lh4.ggpht.com/6g74b7P1veHLlUGBB0pNjeb8vzQZE1uSeigPro36SaHO2u1wRHeE97buXZ_BPHkMFg=h310 "Image Processing")
 
-You are free to add more features by yourself to provide for better scanning experience. Sample input and output using CamScanner app is available in the ip and op folders respectively. You can take a look at the CamScanner demo available on the play store link given above. You might also want to download the CamScanner app and see for yourself how it works.  
+You are free to add more features by yourself to provide for better scanning experience. Sample input and output using CamScanner app is available in the input and output folders respectively. You can take a look at the CamScanner demo available on the play store link given above. You might also want to download the CamScanner app and see for yourself how it works.  
